@@ -35,7 +35,9 @@ What we learned:-
 - How to implement and integrate our AI-based agent on Dialogflow with our front-end code and back-end database.
 
 What's next for Group Hub:-
+
   We hope to add:-
+  
     - More features to our DialogFlow chatbot, which recognizes more user attributes to improve customization during the navigation to the most appropriate virtual group session. 
     - Extend our web app into a mobile application with voice input recognition from the user to the chatbot. 
     - Automize the creation of virtual rooms on a need basis whenever a particular user comes up with a new issue. 
