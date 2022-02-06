@@ -11,11 +11,11 @@ GroupHub is a Web Application that allows users to join various kinds of group s
 
 How we built it:- 
 
-  - Wix=> the base of the web application, interface design, and flow of the application.
-  - FireBase DB=> a cloud-hosted real-time database, to store all of the information about our users and keep track of all their feelings.
-  - Agora=>  a Real-Time Engagement Platform to allow embedding group video calls in our web application.  
-  - Dialogflow=> a natural language understanding platform to design and integrate a conversational user interface into our web application. 
-  - Kommunicate=> for intelligent chat-based support.
+  - Wix=> The base of the web application, interface design, and flow of the application.
+  - FireBase DB=> A cloud-hosted real-time database, to store all of the information about our users and keep track of all their feelings.
+  - Agora=>  A Real-Time Engagement Platform to allow embedding group video calls in our web application.  
+  - Dialogflow=> A natural language understanding platform to design and integrate a conversational user interface into our web application. 
+  - Kommunicate=> For intelligent chat-based support.
 
 Challenges we ran into:- 
   - We were new to Dialogflow, so we had to quickly familiarize ourselves with its working.
