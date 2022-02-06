@@ -7,7 +7,7 @@ From this, we ended up with GroupHub, an online platform to connect people facin
 
 What it does:- 
 
-GroupHub is a Web Application that allows users to join various kinds of group sessions to talk about their everyday problems. When users first come on the site, they will be given an option to Signup/ Login or directly chat with the Chatbot. Users are greeted with a welcome message by the chatbot and are asked to enter their name. This will enable them to add their name to the pool of existing users so that next time our chatbot can recognize them. Based on users' responses to chatbot’s questions they are given a link to the page that would have a list of the most appropriate group sessions for the user. From there, they’ll be able to choose and join whichever session they feel like joining. 
+GroupHub is a Web Application that allows users to join various kinds of group sessions to talk about their everyday problems. When users first come on the site, they will be given an option to Signup/ Login or directly chat with the Chatbot. Users are greeted with a welcome message by the chatbot and are asked to enter their name. This will enable them to add their name to the pool of existing users so that next time our chatbot can recognize them. Based on users' responses to chatbot’s questions they are given a link to the page that would have a list of the most appropriate group sessions for the user. From there, they would be able to choose and join a session of their interest. 
 
 How we built it:- 
 
