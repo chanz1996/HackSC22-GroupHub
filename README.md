@@ -12,10 +12,10 @@ GroupHub is a Web Application that allows users to join various kinds of group s
 How we built it:- 
 
   - Wix-> the base of the web application, interface design, and flow of the application.
-  - FireBase DB, a cloud-hosted real-time database, to store all of the information about our users and keep track of all their feelings!
-  - Agora,  a Real-Time Engagement Platform to allow embedding group video calls in our web application.  
-  - Dialogflow, a natural language understanding platform to design and integrate a conversational user interface into our web application. 
-  - Kommunicate, for intelligent chat-based support.
+  - FireBase DB=> a cloud-hosted real-time database, to store all of the information about our users and keep track of all their feelings!
+  - Agora=>  a Real-Time Engagement Platform to allow embedding group video calls in our web application.  
+  - Dialogflow=> a natural language understanding platform to design and integrate a conversational user interface into our web application. 
+  - Kommunicate=> for intelligent chat-based support.
 
 Challenges we ran into:- 
   - We were new to Dialogflow, so we had to quickly familiarize ourselves with its working.
@@ -38,7 +38,7 @@ What's next for Group Hub:-
 
   We hope to add:-
   
-    - More features to our DialogFlow chatbot, which recognizes more user attributes to improve customization during the navigation to the most appropriate virtual group session. 
+   - More features to our DialogFlow chatbot, which recognizes more user attributes to improve customization during the navigation to the most appropriate virtual group session. 
     - Extend our web app into a mobile application with voice input recognition from the user to the chatbot. 
     - Automize the creation of virtual rooms on a need basis whenever a particular user comes up with a new issue. 
     - Use the user's history to create a user character profile. This will help the Ai assistant to make even better decisions while suggesting group sessions. 
