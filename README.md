@@ -1,13 +1,16 @@
 # HackSC22-GroupHub
 
 Inspiration:- 
+
 Communicating and being able to connect with people is often difficult when you have negative emotions building up inside of you. Many people with anxiety limit their interactions and experience sadness or frustration as a result. Group therapy is an effective mental health treatment that encourages people to communicate with others and explore their emotions, instead of hiding them. This boosts their confidence and helps them cope in social situations better.
 From this, we ended up with GroupHub, an online platform to connect people facing similar problems in their lives. It helps one find like-minded people or just a friend to talk to during tough times.   
 
 What it does:- 
+
 GroupHub is a Web Application that allows users to join various kinds of group sessions to talk about their everyday problems. When users first come on the site, they will be given an option to Signup/ Login or directly chat with the chatBot. Users are greeted with a welcome message by the chatBot and asked to enter their name, this will enable them to add their name to the pool of existing users so that next time our chatBot can recognize them. Based on users' responses to chatBot’s questions they are given a link to the page that would have a list of the most appropriate group sessions for the user. From there, they’ll be able to choose and join whichever session they feel like joining. 
 
 How we built it:- 
+
 Wix, the base of the web application, interface design, and flow of the application,
 FireBase DB, a cloud-hosted real-time database, to store all of the information about our users and keep track of all their feelings!
 Agora,  a Real-Time Engagement Platform to allow embedding group video calls in our web application.  
