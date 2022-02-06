@@ -39,8 +39,8 @@ What's next for Group Hub:-
   We hope to add:-
   
    - More features to our DialogFlow chatbot, which recognizes more user attributes to improve customization during the navigation to the most appropriate virtual group session. 
-    - Extend our web app into a mobile application with voice input recognition from the user to the chatbot. 
-    - Automize the creation of virtual rooms on a need basis whenever a particular user comes up with a new issue. 
-    - Use the user's history to create a user character profile. This will help the Ai assistant to make even better decisions while suggesting group sessions. 
+   - Extend our web app into a mobile application with voice input recognition from the user to the chatbot. 
+   - Automize the creation of virtual rooms on a need basis whenever a particular user comes up with a new issue. 
+   - Use the user's history to create a user character profile. This will help the Ai assistant to make even better decisions while suggesting group sessions. 
 
 
